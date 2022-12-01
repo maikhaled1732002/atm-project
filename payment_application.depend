@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1666903816 source:e:\c\payment_application\server.c
+	"server.h"
+
+1666903816 source:e:\c\payment_application\terminal.c
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"terminal.h"
+	"card.h"
+
+1666903816 source:e:\c\payment_application\card.c
+
+1666903816 source:e:\c\payment_application\main.c
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"app.h"
+
+1666903816 e:\c\payment_application\card.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1666903816 e:\c\payment_application\terminal.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"card.h"
+
+1666903816 e:\c\payment_application\server.h
+	"terminal.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1666532893 e:\c\payment_application\server.c
+	"server.h"
+
+1666903816 e:\c\payment_application\app.h
+	"card.h"
+	"terminal.h"
+	"server.h"
+
+1666903973 source:e:\c\payment_application\terminal folder\terminal.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"terminal.h"
+	"../card folder/card.h"
+
+1666903973 e:\c\payment_application\terminal folder\terminal.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"../card folder/card.h"
+
+1666904089 e:\c\payment_application\card folder\card.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1666904026 source:e:\c\payment_application\app folder\app.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"app.h"
+
+1666903973 e:\c\payment_application\app folder\app.h
+	"../card folder/card.h"
+	"../server folder/server.h"
+	"../terminal folder/terminal.h"
+
+1666903973 e:\c\payment_application\server folder\server.h
+	"../terminal folder/terminal.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1666904070 source:e:\c\payment_application\server folder\server.c
+	<string.h>
+	"server.h"
+
+1666904070 source:e:\c\payment_application\card folder\card.c
+	"card.h"
+
